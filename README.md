@@ -1,4 +1,3 @@
-```markdown
 # Servidor de Arquivos em Go com Autenticação Básica
 
 Este projeto implementa um servidor de arquivos simples em Go que serve arquivos a partir de um diretório especificado e oferece autenticação básica para proteger o acesso aos arquivos.
